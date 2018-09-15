@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1536931455615.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1422176293",
+    "id" : "220B99FB",
+    "lastKnownWriteTime" : 1537037920,
+    "last_content_update" : 1537037920406,
+    "path" : "~/Desktop/r-journalism/courtsked/scripts/01_PDFscrape.R",
+    "project_path" : "scripts/01_PDFscrape.R",
+    "properties" : {
+        "cursorPosition" : "72,18",
+        "scrollLine" : "57",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1537037446808.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "39246E91",
+    "lastKnownWriteTime" : 1537035198,
+    "last_content_update" : 1537037446808,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "F1EDA304",
+        "caption" : "courtsked",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=courtsked&cache_key=F1EDA304",
+        "displayedObservations" : 163,
+        "environment" : "",
+        "object" : "courtsked",
+        "preview" : 0,
+        "totalObservations" : 163,
+        "variables" : 5
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
